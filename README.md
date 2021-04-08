@@ -1,6 +1,6 @@
 -Hello im @NorbertPichon 
-
--IDE -> Code::Blocks / Visual c++ express
+-C++
+-Working with Code::Blocks / Visual c++ express
 
 <!---
 NorbertPichon/NorbertPichon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
